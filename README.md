@@ -18,7 +18,7 @@ This repository serves as a collection of my work and progress in the FreeCodeCa
 
 ## Course Link
 
-[FreeCodeCamp - JavaScript Data Structures and Algorithms](#https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+[FreeCodeCamp - JavaScript Data Structures and Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 ## Topics Covered
 
