@@ -18,7 +18,7 @@ This repository serves as a collection of my work and progress in the FreeCodeCa
 
 ## Course Link
 
-[FreeCodeCamp - JavaScript Data Structures and Algorithms](#https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+[FreeCodeCamp - JavaScript Data Structures and Algorithms](#https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 ## Topics Covered
 
@@ -29,7 +29,7 @@ This repository serves as a collection of my work and progress in the FreeCodeCa
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/javascript-data-structures-algorithms.git
+   git clone https://github.com/SamuelWorld20/javascript-data-structures-algorithms.git
    ```
    
 - Navigate to the project directory:
